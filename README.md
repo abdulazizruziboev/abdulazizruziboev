@@ -4,7 +4,7 @@ Frontend Developer focused on building clean, modern and scalable web interfaces
 
 ---
 
-## 🧑‍💻 About Me
+## ℹ About Me
 
 - 💼 Role: Frontend Developer  
 - ⚡ Focus: React, Tailwind, Next.js  
