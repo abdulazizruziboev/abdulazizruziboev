@@ -1,16 +1,50 @@
-## Hi there 👋
+# Abdulaziz Ruziboev 👋
 
-<!--
-**abdulazizruziboev/abdulazizruziboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean, modern and scalable web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 💼 Role: Frontend Developer  
+- ⚡ Focus: React, Tailwind, Next.js  
+- 🎯 Interests: UI/UX design, algorithms  
+- 📍 Location: Quvasay, Fergana region, Uzbekistan  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
+- JavaScript (ES6+)
+
+**UI / Design**
+- Responsive UI development
+- Clean component architecture
+- Basic UX optimization
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulazizruziboev&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizruziboev&layout=compact)
+
+---
+
+## 📫 Contact
+
+- Telegram: https://t.me/abdulazizruziboev  
+- Email: devruziboev@gmail.com  
+
+---
+
+## ⚡ Focus
+
+Building fast, clean and scalable frontend systems with modern tools.
+
+---
