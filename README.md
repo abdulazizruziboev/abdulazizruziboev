@@ -25,15 +25,6 @@ Frontend Developer focused on building clean, modern and scalable web interfaces
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizruziboev&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizruziboev&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🔥 Activity
 
 <p align="center">
