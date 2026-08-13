@@ -37,7 +37,7 @@ Frontend Developer focused on building clean, modern and scalable web interfaces
 
 <p align="center">
   <a href="https://t.me/abdulazizruziboev">Telegram</a> • 
-  <a href="mailto:devruziboez@gmail.com">Email</a>
+  <a href="mailto:devruziboev@gmail.com">Email</a>
 </p>
 
 ---
