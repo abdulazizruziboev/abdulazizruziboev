@@ -25,14 +25,6 @@ Frontend Developer focused on building clean, modern and scalable web interfaces
 
 ---
 
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizruziboev&theme=tokyo-night" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
